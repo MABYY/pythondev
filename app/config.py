@@ -16,3 +16,4 @@ class Settings(BaseSettings):
 
 
 settings = Settings() # create instance of the Settings class
+
